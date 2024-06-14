@@ -38,7 +38,7 @@
 
             <TextView
                 android:id="@+id/textView4"
-                android:layout_width="279dp"
+                android:layout_width="270dp"
                 android:layout_height="wrap_content"
                 android:background="#00BFBC"
                 android:text="Developer Info"
